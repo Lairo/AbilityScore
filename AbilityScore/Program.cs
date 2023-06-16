@@ -22,6 +22,7 @@ namespace AbilityScore
                 Console.WriteLine("Press Q to quite, any other key to continue");
                 char keyChar = Console.ReadKey(true).KeyChar;
                 if ((keyChar == 'Q') || (keyChar == 'q')) return;
+                //wa
             }
         }
 
